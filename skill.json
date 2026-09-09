@@ -1,0 +1,15 @@
+{
+  "name": "genpark-quantum-shor-period-finding-skill",
+  "version": "1.0.0",
+  "description": "Shor's quantum order-finding arithmetic kernel utilizing continued fractions expansion and convergent analysis for RSA integer factorization.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "shor-algorithm",
+    "order-finding",
+    "continued-fractions",
+    "quantum-arithmetic"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
